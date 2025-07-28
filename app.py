@@ -46,3 +46,13 @@ if selected_group:
             else:
                 # กรณีนี้ไม่น่าเกิดขึ้นได้ เพราะเรากรองตัวเลือกแล้ว
                 st.info("ไม่พบข้อมูลปฏิกิริยาระหว่างยา 2 ชนิดนี้")
+
+st.markdown(
+    """
+    <div style="text-align:center; font-size:16px; color:gray;">
+    จัดทำโดย เภสัชกรวิรุณ เวชศิริ <br>
+    <a href="https://www.pharmconnection.net" target="_blank">Pharm Connection</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
