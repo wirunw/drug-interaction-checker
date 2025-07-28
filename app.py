@@ -52,6 +52,7 @@ st.markdown(
     <div style="text-align:center; font-size:16px; color:gray;">
     จัดทำโดย เภสัชกรวิรุณ เวชศิริ <br>
     <a href="https://www.pharmconnection.net" target="_blank">Pharm Connection</a>
+    <br>July 2025
     </div>
     """,
     unsafe_allow_html=True
